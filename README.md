@@ -14,7 +14,7 @@ or any change in `web3.eth.accounts` would hide them.
 
 ## Installation
 
-    $ meteor add ethereum:accounts
+    $ meteor add mubiale:accounts
 
 ## Usage
 
